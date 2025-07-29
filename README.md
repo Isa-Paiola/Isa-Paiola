@@ -1,4 +1,5 @@
-<img width="1584" height="396" alt="fundo_linkedin2" src="https://github.com/user-attachments/assets/2d3b0bee-6b6e-487b-aaad-5964566c864c" />
+<img width="1584" height="396" alt="Fundo_linkedin" src="https://github.com/user-attachments/assets/97943ce6-2849-4324-b5e8-07de69a397d8" />
+
 
 <br>
 <br>
