@@ -26,6 +26,14 @@
 
 ###
 
+###
+
+<h2 align="left">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=000000&width=435&lines=Estatísticas+do+GitHub%3A" alt="Typing SVG" /></a>
+</h2> 
+
+###
+
    <div>
     <a href="https://github.com/seu-usuário-aqui">
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasBorba&layout=compact&langs_count=7&theme=dracula"/>
