@@ -26,9 +26,10 @@
 
 ###
 
-//////////////<div align="center">
-  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoBanin&layout=compact&hide_border=true&title_color=FFFFFF&w&text_color=00bfbf&bg_color=0d1117" />
-</div>//////////////
+   <div>
+    <a href="https://github.com/seu-usuário-aqui">
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasBorba&layout=compact&langs_count=7&theme=dracula"/>
+   </div>
 
 ###
 
